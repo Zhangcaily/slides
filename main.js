@@ -33,7 +33,7 @@ function move(obj,json,callback) {
                 }
             }
         }
-    },400);
+    },40);
     // 做兼容
     function getStyle(obj,attr) {
         if(getComputedStyle) {
